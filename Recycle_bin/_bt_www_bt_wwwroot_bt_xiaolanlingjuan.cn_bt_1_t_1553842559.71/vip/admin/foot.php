@@ -1,0 +1,1 @@
+<div id="footer">源码购买 ：<a href="http://www.woaik.com" target="_blank">点击购买爱客影院v3.5开源版</a></div>

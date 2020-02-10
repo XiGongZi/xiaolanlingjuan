@@ -1,0 +1,1 @@
+2020/02/09 11:30:12 [error] 8059#0: *456 open() "/www/wwwroot/xiaolanlingjuan.cn/apple-touch-icon.png" failed (2: No such file or directory), client: 14.215.156.141, server: xiaolanlingjuan.cn, request: "GET /apple-touch-icon.png HTTP/1.1", host: "xiaolanlingjuan.cn"

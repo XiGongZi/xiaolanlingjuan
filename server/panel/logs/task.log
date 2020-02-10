@@ -1,0 +1,52 @@
+--2019-03-27 10:10:11--  http://125.88.182.172:5880/stop.html
+Connecting to 125.88.182.172:5880... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3460 (3.4K) [text/html]
+Saving to: ‘/www/server/stop/index.html’
+
+     0K ...                                                   100% 8.38M=0s
+
+2019-03-27 10:10:11 (8.38 MB/s) - ‘/www/server/stop/index.html’ saved [3460/3460]
+
+--2019-03-28 09:06:45--  http://103.224.251.67/src/rarlinux-x64-5.6.1.tar.gz
+Connecting to 103.224.251.67:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 541765 (529K) [application/octet-stream]
+Saving to: ‘/tmp/bt_rar.tar.gz’
+
+     0K .......... .......... .......... .......... ..........  9% 2.34M 0s
+    50K .......... .......... .......... .......... .......... 18% 1.11M 0s
+   100K .......... .......... .......... .......... .......... 28%  811K 0s
+   150K .......... .......... .......... .......... .......... 37% 11.3M 0s
+   200K .......... .......... .......... .......... .......... 47%  604K 0s
+   250K .......... .......... .......... .......... .......... 56% 10.5M 0s
+   300K .......... .......... .......... .......... .......... 66%  604K 0s
+   350K .......... .......... .......... .......... .......... 75%  562K 0s
+   400K .......... .......... .......... .......... .......... 85% 16.6M 0s
+   450K .......... .......... .......... .......... .......... 94% 14.3M 0s
+   500K .......... .......... .........                       100%  264K=0.5s
+
+2019-03-28 09:06:45 (1.02 MB/s) - ‘/tmp/bt_rar.tar.gz’ saved [541765/541765]
+
+rar/
+rar/order.htm
+rar/acknow.txt
+rar/readme.txt
+rar/default.sfx
+rar/license.txt
+rar/rarfiles.lst
+rar/whatsnew.txt
+rar/makefile
+rar/rar
+rar/unrar
+rar/rar.txt
+chown: changing ownership of '/www/wwwroot/xiaolanlingjuan.cn/.user.ini': Operation not permitted
+chmod: changing permissions of '/www/wwwroot/xiaolanlingjuan.cn/.user.ini': Operation not permitted
+Stopping Bt-Tasks...	[32mdone[0m
+Stopping Bt-Panel...	[32mdone[0m
+Starting Bt-Panel....	[32mdone[0m
+Starting Bt-Tasks... 	[32mdone[0m
+chown: changing ownership of '/www/wwwroot/xiaolanlingjuan.cn/.user.ini': Operation not permitted
+chmod: changing permissions of '/www/wwwroot/xiaolanlingjuan.cn/.user.ini': Operation not permitted
+chown: changing ownership of '/www/wwwroot/xiaolanlingjuan.cn/.user.ini': Operation not permitted
+chmod: changing permissions of '/www/wwwroot/xiaolanlingjuan.cn/.user.ini': Operation not permitted

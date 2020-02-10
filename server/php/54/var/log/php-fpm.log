@@ -1,0 +1,106 @@
+[28-Mar-2019 09:09:12] NOTICE: fpm is running, pid 18690
+[28-Mar-2019 09:09:12] NOTICE: ready to handle connections
+[28-Mar-2019 13:28:10] NOTICE: Terminating ...
+[28-Mar-2019 13:28:10] NOTICE: exiting, bye-bye!
+[28-Mar-2019 13:29:12] NOTICE: fpm is running, pid 1365
+[28-Mar-2019 13:29:12] NOTICE: ready to handle connections
+[29-Mar-2019 18:33:45] WARNING: [pool www] child 7344, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (38.680970 sec), logging
+[29-Mar-2019 18:33:45] NOTICE: child 7344 stopped for tracing
+[29-Mar-2019 18:33:45] NOTICE: about to trace 7344
+[29-Mar-2019 18:33:45] ERROR: failed to ptrace(PEEKDATA) pid 7344: Input/output error (5)
+[29-Mar-2019 18:33:45] NOTICE: finished trace of 7344
+[29-Mar-2019 20:07:05] WARNING: [pool www] child 2347, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (34.675566 sec), logging
+[29-Mar-2019 20:07:05] NOTICE: child 2347 stopped for tracing
+[29-Mar-2019 20:07:05] NOTICE: about to trace 2347
+[29-Mar-2019 20:07:05] ERROR: failed to ptrace(PEEKDATA) pid 2347: Input/output error (5)
+[29-Mar-2019 20:07:05] NOTICE: finished trace of 2347
+[29-Mar-2019 20:11:15] WARNING: [pool www] child 17668, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (33.863992 sec), logging
+[29-Mar-2019 20:11:15] NOTICE: child 17668 stopped for tracing
+[29-Mar-2019 20:11:15] NOTICE: about to trace 17668
+[29-Mar-2019 20:11:15] ERROR: failed to ptrace(PEEKDATA) pid 17668: Input/output error (5)
+[29-Mar-2019 20:11:15] NOTICE: finished trace of 17668
+[29-Mar-2019 20:14:55] WARNING: [pool www] child 2347, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (39.823105 sec), logging
+[29-Mar-2019 20:14:55] NOTICE: child 2347 stopped for tracing
+[29-Mar-2019 20:14:55] NOTICE: about to trace 2347
+[29-Mar-2019 20:14:55] ERROR: failed to ptrace(PEEKDATA) pid 2347: Input/output error (5)
+[29-Mar-2019 20:14:55] NOTICE: finished trace of 2347
+[29-Mar-2019 20:27:36] WARNING: [pool www] child 2347, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (33.133948 sec), logging
+[29-Mar-2019 20:27:36] NOTICE: child 2347 stopped for tracing
+[29-Mar-2019 20:27:36] NOTICE: about to trace 2347
+[29-Mar-2019 20:27:36] ERROR: failed to ptrace(PEEKDATA) pid 2347: Input/output error (5)
+[29-Mar-2019 20:27:36] NOTICE: finished trace of 2347
+[29-Mar-2019 21:56:36] WARNING: [pool www] child 738, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (34.174840 sec), logging
+[29-Mar-2019 21:56:36] NOTICE: child 738 stopped for tracing
+[29-Mar-2019 21:56:36] NOTICE: about to trace 738
+[29-Mar-2019 21:56:36] ERROR: failed to ptrace(PEEKDATA) pid 738: Input/output error (5)
+[29-Mar-2019 21:56:36] NOTICE: finished trace of 738
+[29-Mar-2019 23:38:27] WARNING: [pool www] child 738, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (38.186899 sec), logging
+[29-Mar-2019 23:38:27] NOTICE: child 738 stopped for tracing
+[29-Mar-2019 23:38:27] NOTICE: about to trace 738
+[29-Mar-2019 23:38:27] ERROR: failed to ptrace(PEEKDATA) pid 738: Input/output error (5)
+[29-Mar-2019 23:38:27] NOTICE: finished trace of 738
+[29-Mar-2019 23:39:27] WARNING: [pool www] child 1369, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (37.636783 sec), logging
+[29-Mar-2019 23:39:27] NOTICE: child 1369 stopped for tracing
+[29-Mar-2019 23:39:27] NOTICE: about to trace 1369
+[29-Mar-2019 23:39:27] ERROR: failed to ptrace(PEEKDATA) pid 1369: Input/output error (5)
+[29-Mar-2019 23:39:27] NOTICE: finished trace of 1369
+[30-Mar-2019 22:10:05] WARNING: [pool www] child 2341, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (38.037273 sec), logging
+[30-Mar-2019 22:10:05] NOTICE: child 2341 stopped for tracing
+[30-Mar-2019 22:10:05] NOTICE: about to trace 2341
+[30-Mar-2019 22:10:05] ERROR: failed to ptrace(PEEKDATA) pid 2341: Input/output error (5)
+[30-Mar-2019 22:10:05] NOTICE: finished trace of 2341
+[30-Mar-2019 22:10:25] WARNING: [pool www] child 28941, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (32.687641 sec), logging
+[30-Mar-2019 22:10:25] NOTICE: child 28941 stopped for tracing
+[30-Mar-2019 22:10:25] NOTICE: about to trace 28941
+[30-Mar-2019 22:10:25] ERROR: failed to ptrace(PEEKDATA) pid 28941: Input/output error (5)
+[30-Mar-2019 22:10:25] NOTICE: finished trace of 28941
+[31-Mar-2019 22:18:44] WARNING: [pool www] child 4826, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (31.030265 sec), logging
+[31-Mar-2019 22:18:44] NOTICE: child 4826 stopped for tracing
+[31-Mar-2019 22:18:44] NOTICE: about to trace 4826
+[31-Mar-2019 22:18:44] ERROR: failed to ptrace(PEEKDATA) pid 4826: Input/output error (5)
+[31-Mar-2019 22:18:44] NOTICE: finished trace of 4826
+[31-Mar-2019 22:40:34] WARNING: [pool www] child 7344, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (37.121982 sec), logging
+[31-Mar-2019 22:40:34] NOTICE: child 7344 stopped for tracing
+[31-Mar-2019 22:40:34] NOTICE: about to trace 7344
+[31-Mar-2019 22:40:34] ERROR: failed to ptrace(PEEKDATA) pid 7344: Input/output error (5)
+[31-Mar-2019 22:40:34] NOTICE: finished trace of 7344
+[31-Mar-2019 22:55:44] WARNING: [pool www] child 12218, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (31.852912 sec), logging
+[31-Mar-2019 22:55:44] NOTICE: child 12218 stopped for tracing
+[31-Mar-2019 22:55:44] NOTICE: about to trace 12218
+[31-Mar-2019 22:55:44] ERROR: failed to ptrace(PEEKDATA) pid 12218: Input/output error (5)
+[31-Mar-2019 22:55:44] NOTICE: finished trace of 12218
+[01-Apr-2019 20:30:32] WARNING: [pool www] child 4826, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (31.127065 sec), logging
+[01-Apr-2019 20:30:32] NOTICE: child 4826 stopped for tracing
+[01-Apr-2019 20:30:32] NOTICE: about to trace 4826
+[01-Apr-2019 20:30:32] ERROR: failed to ptrace(PEEKDATA) pid 4826: Input/output error (5)
+[01-Apr-2019 20:30:32] NOTICE: finished trace of 4826
+[01-Apr-2019 20:30:42] WARNING: [pool www] child 12217, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (30.534177 sec), logging
+[01-Apr-2019 20:30:42] NOTICE: child 12217 stopped for tracing
+[01-Apr-2019 20:30:42] NOTICE: about to trace 12217
+[01-Apr-2019 20:30:42] ERROR: failed to ptrace(PEEKDATA) pid 12217: Input/output error (5)
+[01-Apr-2019 20:30:42] NOTICE: finished trace of 12217
+[01-Apr-2019 20:31:12] WARNING: [pool www] child 17668, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (31.336528 sec), logging
+[01-Apr-2019 20:31:12] NOTICE: child 17668 stopped for tracing
+[01-Apr-2019 20:31:12] NOTICE: about to trace 17668
+[01-Apr-2019 20:31:12] ERROR: failed to ptrace(PEEKDATA) pid 17668: Input/output error (5)
+[01-Apr-2019 20:31:12] NOTICE: finished trace of 17668
+[02-Apr-2019 11:43:28] WARNING: [pool www] child 17668, script '/www/wwwroot/xiaolanlingjuan.cn/vip/index.php' (request: "GET /vip/index.php") executing too slow (31.170746 sec), logging
+[02-Apr-2019 11:43:28] NOTICE: child 17668 stopped for tracing
+[02-Apr-2019 11:43:28] NOTICE: about to trace 17668
+[02-Apr-2019 11:43:28] ERROR: failed to ptrace(PEEKDATA) pid 17668: Input/output error (5)
+[02-Apr-2019 11:43:28] NOTICE: finished trace of 17668
+[20-Apr-2019 21:50:41] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 17 total children
+[30-Apr-2019 22:47:42] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 4 idle, and 16 total children
+[04-May-2019 17:10:33] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 17 total children
+[15-May-2019 00:03:41] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 17 total children
+[15-May-2019 00:03:42] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 16 children, there are 0 idle, and 22 total children
+[15-May-2019 00:03:43] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 32 children, there are 0 idle, and 27 total children
+[15-May-2019 00:03:44] WARNING: [pool www] server reached pm.max_children setting (30), consider raising it
+[28-May-2019 14:26:19] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 17 total children
+[28-May-2019 14:26:20] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 16 children, there are 0 idle, and 22 total children
+[28-May-2019 14:26:21] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 32 children, there are 0 idle, and 27 total children
+[28-May-2019 14:26:22] WARNING: [pool www] server reached pm.max_children setting (30), consider raising it
+[07-Feb-2020 19:05:45] NOTICE: Finishing ...
+[07-Feb-2020 19:05:45] NOTICE: exiting, bye-bye!
+[07-Feb-2020 19:06:31] NOTICE: fpm is running, pid 1358
+[07-Feb-2020 19:06:31] NOTICE: ready to handle connections
